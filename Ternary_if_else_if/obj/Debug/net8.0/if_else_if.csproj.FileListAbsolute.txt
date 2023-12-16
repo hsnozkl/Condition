@@ -1,0 +1,14 @@
+C:\Users\hasan\OneDrive\Masaüstü\Patika\if_else_if\bin\Debug\net8.0\if_else_if.exe
+C:\Users\hasan\OneDrive\Masaüstü\Patika\if_else_if\bin\Debug\net8.0\if_else_if.deps.json
+C:\Users\hasan\OneDrive\Masaüstü\Patika\if_else_if\bin\Debug\net8.0\if_else_if.runtimeconfig.json
+C:\Users\hasan\OneDrive\Masaüstü\Patika\if_else_if\bin\Debug\net8.0\if_else_if.dll
+C:\Users\hasan\OneDrive\Masaüstü\Patika\if_else_if\bin\Debug\net8.0\if_else_if.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Patika\if_else_if\obj\Debug\net8.0\if_else_if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\OneDrive\Masaüstü\Patika\if_else_if\obj\Debug\net8.0\if_else_if.AssemblyInfoInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\Patika\if_else_if\obj\Debug\net8.0\if_else_if.AssemblyInfo.cs
+C:\Users\hasan\OneDrive\Masaüstü\Patika\if_else_if\obj\Debug\net8.0\if_else_if.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\Patika\if_else_if\obj\Debug\net8.0\if_else_if.dll
+C:\Users\hasan\OneDrive\Masaüstü\Patika\if_else_if\obj\Debug\net8.0\refint\if_else_if.dll
+C:\Users\hasan\OneDrive\Masaüstü\Patika\if_else_if\obj\Debug\net8.0\if_else_if.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Patika\if_else_if\obj\Debug\net8.0\if_else_if.genruntimeconfig.cache
+C:\Users\hasan\OneDrive\Masaüstü\Patika\if_else_if\obj\Debug\net8.0\ref\if_else_if.dll
